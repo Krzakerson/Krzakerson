@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Michał and I am studying to become a software engineer
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
+- 📫 How to reach me:
+- Discord : żaku#7971
 
 <!--
 **Krzakerson/Krzakerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
