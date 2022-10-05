@@ -2,7 +2,10 @@
 My name is Michał and I am studying to become a software engineer
 
 🌱 I’m currently learning ... 
--Javascript , C++ , C# , PHP
+-Javascript 
+-C++ 
+-C# 
+-PHP
 - 📫 How to reach me:
 - Discord : żaku#7971
 
