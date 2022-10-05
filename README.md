@@ -2,6 +2,7 @@
 My name is Michał and I am studying to become a software engineer
 
 🌱 I’m currently learning ... 
+<br>
 -Javascript 
 -C++ 
 -C# 
